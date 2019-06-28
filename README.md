@@ -4,4 +4,4 @@ Kia king Ishii氏のVuex-orm exampleをクローンさせていただき、フ�
 
 [Vuex-orm](https://github.com/vuex-orm/vuex-orm)
 
-[Vuex-orm-example]()
+[Vuex-orm-example](https://github.com/vuex-orm/vuex-orm-examples)
